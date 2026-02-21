@@ -1,3 +1,4 @@
+import java.util.*;
 public class SquareOfSortedArray {
     public int[] sortedSquares(int[] nums) {
         int[] arr=new int[nums.length];
