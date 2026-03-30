@@ -1,4 +1,5 @@
-class Solution {
+
+public class LuckyInteger {
     public int findLucky(int[] arr) {
         HashMap<Integer,Integer> map=new HashMap<>();
         for(int n:arr){
