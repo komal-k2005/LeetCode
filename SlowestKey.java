@@ -1,5 +1,4 @@
 public class SlowestKey{
-    class Solution {
     public char slowestKey(int[] releaseTimes, String keysPressed) {
         char ans=keysPressed.charAt(0);
         int max=releaseTimes[0];
